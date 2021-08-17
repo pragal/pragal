@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pragal
 - 👀 I’m interested in UI/UX 
-- 🌱 I’m currently learning React & React Native
 - 💞️ I’m looking to collaborate with Creative Minds
 - 📫 How to reach me https://www.linkedin.com/in/pragal/
 
